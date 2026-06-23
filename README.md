@@ -1,70 +1,104 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Daffa Pamungkas</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Daffa%20Akmal%20Ayom%20Pamungkas&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+<h3 align="center">
+Full-Stack Developer • Frontend Developer • Data Classification • AI Enthusiast
+</h3>
 
-<br/>
+<p align="center">
+Building modern web applications, intelligent systems, and data-driven solutions.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Web+Applications;Creating+Data-Driven+Projects;Exploring+AI-Powered+Solutions;Learning+Full-Stack+Development" alt="Typing SVG" />
+---
 
-<br/><br/>
+## 🚀 About Me
 
-<img src="https://img.shields.io/badge/Full--Stack%20Developer-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Data%20Analyst-0F172A?style=for-the-badge&logo=python&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/AI%20Enthusiast-0F172A?style=for-the-badge&logo=google&logoColor=60A5FA" />
+I'm a passionate developer with experience in **Full-Stack Development**, **Frontend Development**, and **Machine Learning Projects**.
 
-<br/><br/>
+I enjoy building modern web applications, exploring Artificial Intelligence, and developing solutions that create real impact through technology.
 
+- 💻 Experienced in Full-Stack and Frontend Development
+- 📊 Worked on Data Classification and Data Analysis projects
+- 🤖 AI Enthusiast exploring Machine Learning and Generative AI
+- 🚀 Passionate about creating useful and scalable digital products
+
+---
+
+## 🎯 Current Focus
+
+- Full-Stack Web Development
+- Frontend Engineering
+- Machine Learning & Artificial Intelligence
+- Data Classification & Analytics
+- Modern UI/UX Development
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,laravel,fastapi" />
+</p>
+
+### Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
+</p>
+
+### AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏋️ Raga-Wise
+
+AI-powered fitness and nutrition planning platform featuring personalized workout plans, smart meal recommendations, progress tracking, and AI-assisted health guidance.
+
+### 🎵 Spotify Mood Classifier
+
+Machine learning project for mood classification and music analysis using Python.
+
+### 🧠 Drug Classification System
+
+Data classification project utilizing machine learning algorithms for medicine category prediction.
+
+### 🤖 DCGAN Improvement Research
+
+Deep learning research project focused on improving generative adversarial network performance.
+
+### 🎨 Portfolio Website
+
+Personal portfolio website showcasing projects, skills, and professional experience.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
 <a href="https://github.com/DaffaPmgks">
-  <img src="https://img.shields.io/github/followers/DaffaPmgks?style=for-the-badge&logo=github&label=Followers&color=38BDF8&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/GitHub-DaffaPmgks-181717?style=for-the-badge&logo=github" />
 </a>
+
 <a href="https://www.linkedin.com/in/daffapmgks/">
-  <img src="https://img.shields.io/badge/LinkedIn-Daffa%20Akmal%20Ayom%20Pamungkas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Daffa%20Pamungkas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:daffaakaml04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+</p>
 
 ---
 
-## ✨ About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👋 Hey, I'm Daffa
-
-I am an Informatics undergraduate student at **Universitas Amikom Yogyakarta** with an interest in **Full-Stack Development**, **Data Analysis**, and **Artificial Intelligence**.
-
-I enjoy building digital products that combine **web development**, **data-driven thinking**, and **AI-powered features**.
-
-- 🎓 Informatics Student at Universitas Amikom Yogyakarta  
-- 💻 Interested in Full-Stack Development, Data Analysis, and AI  
-- 🚀 Currently learning React, FastAPI, REST API, Gemini API, and Machine Learning  
-- 🧠 Exploring AI integration, dashboard UI, and data-driven applications  
-- 🎯 Goal: Build useful, clean, and user-focused digital products  
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Quick Profile
-
-```js
-const daffa = {
-  name: "Daffa Akmal Ayom Pamungkas",
-  role: ["Full-Stack Developer", "Data Analyst", "AI Enthusiast"],
-  education: "Bachelor of Informatics - Universitas Amikom Yogyakarta",
-  focus: ["Web Development", "Data Analysis", "AI Integration"],
-  currentlyLearning: ["React", "FastAPI", "REST API", "Gemini API", "Machine Learning"],
-  goal: "Build practical and user-focused digital products"
-};
+<p align="center">
+<i>"Building impactful digital solutions through software, data, and artificial intelligence."</i>
+</p>
