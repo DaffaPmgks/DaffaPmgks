@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Daffa Pamungkas
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Frontend+Developer;Data+Classification+Enthusiast;AI+Enthusiast;Building+Digital+Solutions+with+Code+%26+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Frontend+Developer;AI+Enthusiast;Building+Digital+Solutions+with+Code+%26+AI" alt="Typing SVG" />
 
 <br/>
 
